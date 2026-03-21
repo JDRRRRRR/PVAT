@@ -3,8 +3,10 @@
 
 > **Submitted to IJCNN 2026 (Under Review)**
 >
-> **Authors:** Anonymous
-
+> **Authors:** Dongrui Jiang, Guanghua He*
+> School of Ocean Engineering, Harbin Insitute of Technology, Weihai, China
+>*Corresponding Author: Guanghua He (ghhe@hitwh.edu.cn)
+ 
 ## Abstract
 
 Federated learning offers a promising paradigm for leveraging distributed time-series data without compromising privacy. However, a fundamental obstacle arises when nodes employ different sampling devices: heterogeneous sampling rates produce time series of varying granularities, and diverse sensor configurations yield inconsistent variable sets across nodes. These structural heterogeneities prevent direct parameter aggregation in conventional federated frameworks.
